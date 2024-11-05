@@ -4,5 +4,3 @@
 ## 上課網址
 
 https://meet.google.com/zun-hzzz-fov
-
-#Test 20241105 22:30:00
